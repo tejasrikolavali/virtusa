@@ -1,0 +1,1 @@
+Synthetic chargeback reason: merchandise not received. This is a dispute reason, not direct proof of order fraud.

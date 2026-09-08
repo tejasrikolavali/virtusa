@@ -1,0 +1,2 @@
+AC-01
+Typed FraudState is defined in src/fraud_copilot/state.py and shared by LangGraph.

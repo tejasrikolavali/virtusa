@@ -1,0 +1,1 @@
+Billing and shipping mismatch is a synthetic fraud signal. Combine with other signals before deciding.

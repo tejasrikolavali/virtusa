@@ -1,0 +1,2 @@
+AC-05
+SQLite checkpointer configured in graph/builder.py using langgraph-checkpoint-sqlite.

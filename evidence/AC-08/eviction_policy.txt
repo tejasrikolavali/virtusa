@@ -1,0 +1,2 @@
+AC-08
+TTL expiry plus importance/LRU eviction is implemented in memory/manager.py.

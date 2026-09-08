@@ -1,0 +1,2 @@
+AC-04
+SignalOutput, RiskScoreOutput, ResolutionOutput and EscalationOutput are Pydantic models.

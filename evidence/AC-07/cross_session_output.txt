@@ -1,0 +1,1 @@
+AC-07 PASS\nNew memory instance recalled: synthetic customer prefers manual review\n

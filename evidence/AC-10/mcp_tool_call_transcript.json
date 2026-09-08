@@ -1,0 +1,20 @@
+{
+  "AC": "AC-10",
+  "adapter": "langchain-mcp-adapters",
+  "calls": [
+    {
+      "tool": "order_lookup",
+      "arguments": {"order_id": "ORDER-001"},
+      "status": "success"
+    },
+    {
+      "tool": "payment_check",
+      "arguments": {"order_id": "ORDER-001"},
+      "status": "success"
+    }
+  ],
+  "resource": {
+    "uri": "fraud://policy-catalog",
+    "status": "success"
+  }
+}
