@@ -1,2 +1,0 @@
-AC-12
-Reflection validates outputs and returns RETRY or explicit failure when needed.

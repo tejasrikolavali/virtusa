@@ -1,2 +1,0 @@
-AC-06
-Working memory plus persistent memory manager are implemented.
