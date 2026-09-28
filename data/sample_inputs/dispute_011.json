@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-011",
+  "transaction_id": "TXN-011",
+  "customer_id": "CUSTOMER-011",
+  "amount": 1770.0,
+  "currency": "USD",
+  "merchant": "Summit Pharmacy",
+  "transaction_status": "posted",
+  "dispute_text": "I was charged for a duplicate refill after I already received the order.",
+  "prior_disputes": 2,
+  "card_last4": "6721",
+  "country": "US",
+  "device_id": "DEV-011",
+  "channel": "app"
+}

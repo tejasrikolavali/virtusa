@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-016",
+  "transaction_id": "TXN-016",
+  "customer_id": "CUSTOMER-016",
+  "amount": 760.0,
+  "currency": "USD",
+  "merchant": "Rapid Courier",
+  "transaction_status": "posted",
+  "dispute_text": "I was charged twice for the same same-day courier service.",
+  "prior_disputes": 1,
+  "card_last4": "4112",
+  "country": "US",
+  "device_id": "DEV-016",
+  "channel": "mobile"
+}

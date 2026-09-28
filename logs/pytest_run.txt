@@ -1,0 +1,6 @@
+RETURN=0
+STDOUT:
+.............                                                            [100%]Running teardown with pytest sessionfinish...
+
+
+STDERR:

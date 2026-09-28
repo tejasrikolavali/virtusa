@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-017",
+  "transaction_id": "TXN-017",
+  "customer_id": "CUSTOMER-017",
+  "amount": 135.0,
+  "currency": "USD",
+  "merchant": "Luma Streaming",
+  "transaction_status": "posted",
+  "dispute_text": "I never requested a premium subscription; someone must have signed me up.",
+  "prior_disputes": 0,
+  "card_last4": "7785",
+  "country": "US",
+  "device_id": "DEV-017",
+  "channel": "web"
+}

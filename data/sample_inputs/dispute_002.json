@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-002",
+  "transaction_id": "TXN-002",
+  "customer_id": "CUSTOMER-002",
+  "amount": 89.99,
+  "currency": "USD",
+  "merchant": "Northwind Market",
+  "transaction_status": "posted",
+  "dispute_text": "I was charged twice for the same coffee order.",
+  "prior_disputes": 0,
+  "card_last4": "1002",
+  "country": "US",
+  "device_id": "DEV-002",
+  "channel": "web"
+}

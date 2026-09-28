@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-014",
+  "transaction_id": "TXN-014",
+  "customer_id": "CUSTOMER-014",
+  "amount": 3100.0,
+  "currency": "USD",
+  "merchant": "Aero Flights",
+  "transaction_status": "posted",
+  "dispute_text": "I did not authorize this airline payment at all.",
+  "prior_disputes": 4,
+  "card_last4": "1823",
+  "country": "US",
+  "device_id": "DEV-014",
+  "channel": "mobile"
+}

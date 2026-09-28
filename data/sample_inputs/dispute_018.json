@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-018",
+  "transaction_id": "TXN-018",
+  "customer_id": "CUSTOMER-018",
+  "amount": 189.5,
+  "currency": "USD",
+  "merchant": "Harbor Care",
+  "transaction_status": "posted",
+  "dispute_text": "The merchant billed me for services I never received.",
+  "prior_disputes": 2,
+  "card_last4": "3459",
+  "country": "AU",
+  "device_id": "DEV-018",
+  "channel": "app"
+}

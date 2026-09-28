@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-003",
+  "transaction_id": "TXN-003",
+  "customer_id": "CUSTOMER-003",
+  "amount": 240.0,
+  "currency": "USD",
+  "merchant": "Blue Harbor Delivery",
+  "transaction_status": "posted",
+  "dispute_text": "My package never arrived and I was charged on delivery day.",
+  "prior_disputes": 2,
+  "card_last4": "5501",
+  "country": "US",
+  "device_id": "DEV-003",
+  "channel": "app"
+}

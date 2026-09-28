@@ -1,0 +1,8 @@
+case_id,dispute_type,decision,fraud_score,latency_ms,status
+DISP-001,unauthorized_transaction,investigate,81.0,15.2,resolved
+DISP-002,duplicate_transaction,deny,42.0,18.4,resolved
+metric:execution_success_rate,summary,summary,1.0,1.0,summary
+metric:accuracy,summary,summary,1.0,1.0,summary
+metric:hallucination_rate,summary,summary,0.0,0.0,summary
+metric:faithfulness,summary,summary,1.0,1.0,summary
+metric:relevance,summary,summary,1.0,1.0,summary

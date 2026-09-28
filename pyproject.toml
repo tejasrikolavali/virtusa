@@ -1,0 +1,9 @@
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+
+[project]
+name = "transaction-dispute-fraud-triage-copilot"
+version = "0.1.0"
+requires-python = ">=3.11"

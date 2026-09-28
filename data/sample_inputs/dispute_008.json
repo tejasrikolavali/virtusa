@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-008",
+  "transaction_id": "TXN-008",
+  "customer_id": "CUSTOMER-008",
+  "amount": 59.0,
+  "currency": "USD",
+  "merchant": "Signal Books",
+  "transaction_status": "posted",
+  "dispute_text": "The digital ebook never arrived after payment.",
+  "prior_disputes": 0,
+  "card_last4": "6390",
+  "country": "US",
+  "device_id": "DEV-008",
+  "channel": "web"
+}

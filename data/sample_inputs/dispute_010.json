@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-010",
+  "transaction_id": "TXN-010",
+  "customer_id": "CUSTOMER-010",
+  "amount": 120.0,
+  "currency": "USD",
+  "merchant": "Quick Cart",
+  "transaction_status": "posted",
+  "dispute_text": "This transaction was not made by me and there is no receipt.",
+  "prior_disputes": 0,
+  "card_last4": "8849",
+  "country": "DE",
+  "device_id": "DEV-010",
+  "channel": "web"
+}

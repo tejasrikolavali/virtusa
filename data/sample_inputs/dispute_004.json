@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-004",
+  "transaction_id": "TXN-004",
+  "customer_id": "CUSTOMER-004",
+  "amount": 145.7,
+  "currency": "USD",
+  "merchant": "Cloud Travel",
+  "transaction_status": "posted",
+  "dispute_text": "The amount is wrong; I was billed for an extra night.",
+  "prior_disputes": 1,
+  "card_last4": "7034",
+  "country": "CA",
+  "device_id": "DEV-004",
+  "channel": "mobile"
+}

@@ -1,0 +1,3 @@
+{"rule_id":"CB-SYN-001","type":"fraud","text":"Synthetic rule: unrecognized transaction with corroborating fraud signals may qualify for investigation.","source":"Synthetic Network Policy"}
+{"rule_id":"CB-SYN-002","type":"credit","text":"Synthetic rule: provisional credit may be considered after required checks.","source":"Synthetic Bank Policy"}
+{"rule_id":"CB-SYN-003","type":"escalation","text":"Synthetic rule: high-value or high-fraud-score disputes require human review.","source":"Synthetic Escalation Policy"}

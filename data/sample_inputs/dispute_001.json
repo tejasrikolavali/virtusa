@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-001",
+  "transaction_id": "TXN-001",
+  "customer_id": "CUSTOMER-001",
+  "amount": 1250.0,
+  "currency": "USD",
+  "merchant": "Synthetic Electronics",
+  "transaction_status": "posted",
+  "dispute_text": "I do not recognize this synthetic transaction.",
+  "prior_disputes": 1,
+  "card_last4": "4242",
+  "country": "US",
+  "device_id": "DEV-001",
+  "channel": "mobile"
+}

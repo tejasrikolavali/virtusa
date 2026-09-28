@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-006",
+  "transaction_id": "TXN-006",
+  "customer_id": "CUSTOMER-006",
+  "amount": 680.0,
+  "currency": "USD",
+  "merchant": "Metro Rental",
+  "transaction_status": "pending",
+  "dispute_text": "Someone used my card to rent a vehicle in another city.",
+  "prior_disputes": 3,
+  "card_last4": "1189",
+  "country": "US",
+  "device_id": "DEV-006",
+  "channel": "mobile"
+}

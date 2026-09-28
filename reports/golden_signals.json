@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-09-28T10:37:27.851993+00:00",
+  "source": {
+    "latency": "Measured around process_dispute()",
+    "risk": "Returned by fraud-scoring agent",
+    "evaluation": "reports/eval_report.json",
+    "tracing": "traces/phoenix_spans.jsonl"
+  },
+  "summary": {
+    "total_cases": 2,
+    "average_latency_ms": 16.8,
+    "p50_latency_ms": 16.8,
+    "p95_latency_ms": 18.22,
+    "avg_risk_score": 61.5
+  },
+  "metrics": {
+    "latency": {
+      "average_ms": 16.8,
+      "p50_ms": 16.8,
+      "p95_ms": 18.22
+    },
+    "execution_success_rate": 1.0,
+    "accuracy": 1.0,
+    "hallucination_rate": 0.0,
+    "faithfulness": 1.0,
+    "relevance": 1.0,
+    "estimated_cost_usd": null,
+    "cost_note": "Token usage and Gemini pricing are unavailable because no actual model token usage records were captured in the repository traces. No synthetic cost is inserted."
+  }
+}

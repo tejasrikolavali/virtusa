@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-019",
+  "transaction_id": "TXN-019",
+  "customer_id": "CUSTOMER-019",
+  "amount": 2250.0,
+  "currency": "USD",
+  "merchant": "Summit Auto",
+  "transaction_status": "pending",
+  "dispute_text": "My card was used without my authorization for a large vehicle booking.",
+  "prior_disputes": 3,
+  "card_last4": "9472",
+  "country": "US",
+  "device_id": "DEV-019",
+  "channel": "mobile"
+}

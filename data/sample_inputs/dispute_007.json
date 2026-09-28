@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-007",
+  "transaction_id": "TXN-007",
+  "customer_id": "CUSTOMER-007",
+  "amount": 159.0,
+  "currency": "USD",
+  "merchant": "Fjord Fitness",
+  "transaction_status": "posted",
+  "dispute_text": "I see the same monthly charge twice in one billing cycle.",
+  "prior_disputes": 1,
+  "card_last4": "2491",
+  "country": "GB",
+  "device_id": "DEV-007",
+  "channel": "app"
+}

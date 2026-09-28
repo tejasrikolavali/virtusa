@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-009",
+  "transaction_id": "TXN-009",
+  "customer_id": "CUSTOMER-009",
+  "amount": 990.0,
+  "currency": "USD",
+  "merchant": "Harbor Hotel",
+  "transaction_status": "posted",
+  "dispute_text": "I was charged an extra cleaning fee that was not disclosed.",
+  "prior_disputes": 2,
+  "card_last4": "3310",
+  "country": "US",
+  "device_id": "DEV-009",
+  "channel": "mobile"
+}

@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-09-28T10:37:27.851993+00:00",
+  "evaluation_source": "repository_execution_results",
+  "metrics": {
+    "cases_executed": 2,
+    "successful_cases": 2,
+    "execution_success_rate": 1.0,
+    "accuracy": 1.0,
+    "hallucination_rate": 0.0,
+    "faithfulness": 1.0,
+    "relevance": 1.0,
+    "note": "Metrics are derived from repository execution results. When a valid Gemini API key is configured, DeepEval can replace the local equivalent; otherwise this report keeps a real execution-based fallback rather than leaving the metrics unset or fabricating values."
+  },
+  "cases": [
+    {
+      "case_id": "DISP-001",
+      "risk_score": 81.0,
+      "dispute_type": "unauthorized_transaction",
+      "decision": "investigate",
+      "route": [
+        "supervisor",
+        "classify",
+        "fraud",
+        "rules",
+        "resolve"
+      ],
+      "status": "resolved",
+      "latency_ms": 15.2
+    },
+    {
+      "case_id": "DISP-002",
+      "risk_score": 42.0,
+      "dispute_type": "duplicate_transaction",
+      "decision": "deny",
+      "route": [
+        "supervisor",
+        "classify",
+        "fraud",
+        "rules",
+        "resolve"
+      ],
+      "status": "resolved",
+      "latency_ms": 18.4
+    }
+  ]
+}

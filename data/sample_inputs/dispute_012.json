@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-012",
+  "transaction_id": "TXN-012",
+  "customer_id": "CUSTOMER-012",
+  "amount": 299.0,
+  "currency": "USD",
+  "merchant": "Bright Labs",
+  "transaction_status": "posted",
+  "dispute_text": "The merchant continued billing after cancellation.",
+  "prior_disputes": 1,
+  "card_last4": "5544",
+  "country": "US",
+  "device_id": "DEV-012",
+  "channel": "mobile"
+}

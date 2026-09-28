@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-020",
+  "transaction_id": "TXN-020",
+  "customer_id": "CUSTOMER-020",
+  "amount": 97.0,
+  "currency": "USD",
+  "merchant": "Vela Beauty",
+  "transaction_status": "posted",
+  "dispute_text": "I was charged for an annual plan I canceled before the renewal date.",
+  "prior_disputes": 1,
+  "card_last4": "5008",
+  "country": "US",
+  "device_id": "DEV-020",
+  "channel": "web"
+}

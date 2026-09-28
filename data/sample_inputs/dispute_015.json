@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-015",
+  "transaction_id": "TXN-015",
+  "customer_id": "CUSTOMER-015",
+  "amount": 220.0,
+  "currency": "USD",
+  "merchant": "Garden Supply Co.",
+  "transaction_status": "posted",
+  "dispute_text": "The order arrived damaged and the merchant refused to resolve it.",
+  "prior_disputes": 0,
+  "card_last4": "9053",
+  "country": "CA",
+  "device_id": "DEV-015",
+  "channel": "app"
+}

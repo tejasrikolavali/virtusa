@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-013",
+  "transaction_id": "TXN-013",
+  "customer_id": "CUSTOMER-013",
+  "amount": 40.0,
+  "currency": "USD",
+  "merchant": "Street Grill",
+  "transaction_status": "posted",
+  "dispute_text": "This charge is incorrect; my ticket was for a smaller order.",
+  "prior_disputes": 0,
+  "card_last4": "1228",
+  "country": "US",
+  "device_id": "DEV-013",
+  "channel": "web"
+}

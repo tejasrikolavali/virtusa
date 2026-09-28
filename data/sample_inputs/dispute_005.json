@@ -1,0 +1,15 @@
+{
+  "dispute_id": "DISP-005",
+  "transaction_id": "TXN-005",
+  "customer_id": "CUSTOMER-005",
+  "amount": 440.0,
+  "currency": "USD",
+  "merchant": "Corner Cafe",
+  "transaction_status": "posted",
+  "dispute_text": "The merchant misrepresented the service and refused refunds.",
+  "prior_disputes": 0,
+  "card_last4": "8702",
+  "country": "US",
+  "device_id": "DEV-005",
+  "channel": "web"
+}
